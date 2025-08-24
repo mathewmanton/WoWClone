@@ -73,3 +73,8 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Azerlite/Intermediate/
+Azerlite/Saved/
+Azerlite/.idea/
+Azerlite/Binaries/Win64/AzerliteEditor.target
+Azerlite/Binaries/
